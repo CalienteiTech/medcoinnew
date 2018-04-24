@@ -1,0 +1,9 @@
+Building Medcoin
+
+See doc/readme-qt.rst for instructions on building Medcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Medcoin.
+
+See doc/build-*.txt for instructions on building medcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Medcoin.

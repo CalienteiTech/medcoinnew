@@ -1,0 +1,32 @@
+/* XPM */
+static char *_6660df3cf1247cb9cf65c778adfd01e[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 10 1 ",
+"  c #EF7E08",
+". c #EF7E09",
+"X c #EF7F09",
+"o c #EF7F0A",
+"O c #EF7F0B",
+"+ c #EF800B",
+"@ c #EE800C",
+"# c #EF800C",
+"$ c #EF800D",
+"% c None",
+/* pixels */
+"%%%%%%%$$%%%%%%%",
+"%%%%XOOOOXOX%%%%",
+"%%%XX%%%%%%OX%%%",
+"%%X%%%%%%%%%%X%%",
+"%X%%%%%%%%%%%%X%",
+"OX%%%%%%%%%%%%OX",
+"X%%%X%%%%%%O%%%X",
+"O%%%XX%%%%XX%%%O",
+"$%%%XXO%%%XX%%%$",
+"X%%%XOX%%XXX%%%X",
+"X%%%X%XXXX%X%%%X",
+"%X%%X%%%X%%X%%O%",
+"%O%%X%%%%%%X%%X%",
+"%%XXX%%%%%%X$X%%",
+"%%%XX%%%%%%XX%%%",
+"%%%%%%%%%%%%%%%%"
+};
